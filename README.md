@@ -48,8 +48,6 @@ HAPPY_MINDS/
 │── vicode.sql
 │── README.md
 
-yaml
-Copy code
 
 ---
 
